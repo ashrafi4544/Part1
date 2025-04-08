@@ -9,10 +9,6 @@ This is a simple React application built with Vite that displays random anecdote
 - **Dynamic Statistics:** Shows the number of votes for the selected anecdote and highlights the anecdote with the most votes.
 - **Conditional Rendering:** Displays a notification if no votes have been cast.
 
-## Project Structure
-
-anecdotes-application/ ├── node_modules/ # Installed dependencies ├── public/ # Static files (e.g., index.html) ├── src/ │ ├── App.jsx # Main React component containing the application logic │ ├── index.jsx # Application entry point (renders <App />) │ └── ... # Other supporting files (if any) ├── .gitignore # Lists files/folders to be ignored by Git (e.g., node_modules/) ├── package.json # Project dependencies and scripts └── README.md # This file
-
 
 ## Prerequisites
 
